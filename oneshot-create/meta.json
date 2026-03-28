@@ -1,0 +1,7 @@
+{
+  "id": "oneshot-create",
+  "name": "One-shot Create",
+  "description": "Create VMs and CTs in one scrollable page with a separate confirmation dialog",
+  "version": "1.0.0",
+  "author": "Proxmox Plugins"
+}

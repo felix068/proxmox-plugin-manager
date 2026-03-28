@@ -1,0 +1,7 @@
+{
+  "id": "console-tab",
+  "name": "Console Tab",
+  "description": "Open Proxmox console viewers in a browser tab instead of a popup window",
+  "version": "1.0.0",
+  "author": "Proxmox Plugins"
+}

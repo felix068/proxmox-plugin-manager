@@ -1,0 +1,7 @@
+{
+  "id": "vm-folders",
+  "name": "VM Folders",
+  "description": "Organize VMs and containers into custom folders",
+  "version": "1.0.0",
+  "author": "Proxmox Plugins"
+}

@@ -1,0 +1,13 @@
+/a/
+/__pycache__/
+*.pyc
+*.zip
+*.orig
+*.backup-*
+proxmox-plugins.zip
+/vm-folders/proxmox/
+/resourcetree-original.js
+/vm-folders-patch.js
+/pvemanagerlib-folders.patch
+/apply-folders-patch.sh
+/install-folders-native.sh

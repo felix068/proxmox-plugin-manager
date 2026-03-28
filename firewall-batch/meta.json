@@ -1,0 +1,7 @@
+{
+  "id": "firewall-batch",
+  "name": "Firewall Batch",
+  "description": "Build inbound and outbound firewall rule batches with optional mirroring",
+  "version": "1.0.0",
+  "author": "Proxmox Plugins"
+}

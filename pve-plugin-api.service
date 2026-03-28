@@ -1,0 +1,25 @@
+[Unit]
+Description=Proxmox Plugin Manager API
+After=network.target pveproxy.service
+
+[Service]
+Type=simple
+User=root
+ExecStart=/usr/local/bin/pve-plugin-api.py
+Restart=on-failure
+RestartSec=5
+StandardOutput=journal
+StandardError=journal
+
+# Sécurité
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/usr/share/pve-xtermjs /usr/share/pve-manager /etc/pve /usr/share/novnc-pve
+ProtectKernelTunables=true
+ProtectKernelModules=true
+ProtectControlGroups=true
+
+[Install]
+WantedBy=multi-user.target

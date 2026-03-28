@@ -1,0 +1,7 @@
+{
+  "id": "xterm-clipboard",
+  "name": "XTerm Clipboard",
+  "description": "Enable Ctrl+Shift+C/V clipboard shortcuts in XTerm console",
+  "version": "1.0.0",
+  "author": "Proxmox Plugins"
+}

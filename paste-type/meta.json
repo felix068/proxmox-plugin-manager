@@ -1,0 +1,7 @@
+{
+  "id": "paste-type",
+  "name": "Paste & Type",
+  "description": "Add paste and type functionality to noVNC console with AZERTY/QWERTY support",
+  "version": "1.0.0",
+  "author": "Proxmox Plugins"
+}
