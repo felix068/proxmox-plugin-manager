@@ -9,6 +9,12 @@ Small Proxmox VE plugin pack for UI tweaks and helpers:
 - firewall batch helper
 - xterm clipboard helper
 
+## Where It Appears
+
+The Plugin Manager is available in the Datacenter sidebar under `Plugins`.
+
+![Plugin Manager location](images/image-proxmox.png)
+
 ## Requirements
 
 - Proxmox VE host
